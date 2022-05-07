@@ -1,6 +1,7 @@
 body {
   font: normal 18pt Arial;
   background-color: #d6d6d6;
+  box-sizing: border-box;
 }
 
 h1 {
@@ -10,13 +11,12 @@ h1 {
 input {
   font: normal 1.4rem Arial;
   display: block;
-  width: 100%;
+  margin-bottom: 8px;
 }
 
-p {
-  width: 100%;
-}
-
-div#res {
-  margin-top: 20px;
+#container {
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
 }
