@@ -1,0 +1,22 @@
+body {
+  font: normal 18pt Arial;
+  background-color: #d6d6d6;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  font: normal 1.4rem Arial;
+  display: block;
+  width: 100%;
+}
+
+p {
+  width: 100%;
+}
+
+div#res {
+  margin-top: 20px;
+}
