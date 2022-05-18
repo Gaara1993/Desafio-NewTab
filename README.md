@@ -1,4 +1,4 @@
-#Desafio NewTab Academy#
+# Desafio NewTab Academy
 
 Para demonstrar que você tem um conhecimento inicial ou consegue se dedicar para aprender rapidamente um conteúdo básico, temos o seguinte projeto para você: um formulário simples de soma de dois valores com HTML e JavaScript.
 
